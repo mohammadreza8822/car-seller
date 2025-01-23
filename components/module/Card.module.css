@@ -1,5 +1,5 @@
 .container {
-  box-shadow: rgba(149, 157, 165, 0.2);
+  box-shadow: rgba(149, 157, 165, 0.2) 0px 5px 15px;
   width: fit-content;
   border-radius: 5px;
   overflow: hidden;
